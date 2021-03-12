@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: Inspired Universal
+title: Inspired Univers
 
 ---
 一面记录，一面分享
