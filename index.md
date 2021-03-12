@@ -4,5 +4,5 @@ permalink: /
 title: Inspired Universe
 
 ---
-站在技术与人文的十字路口.
+技术在左，人文在右.
 
