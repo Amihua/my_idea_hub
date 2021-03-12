@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: Inspired Univers
+title: Inspired Universe
 
 ---
-一面记录，一面分享
+站在技术与人文的十字路口.
 
