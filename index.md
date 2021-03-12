@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Inspired Universal
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+一面记录，一面分享
 
